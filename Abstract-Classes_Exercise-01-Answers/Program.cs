@@ -1,4 +1,7 @@
 ﻿using Abstract_Classes_Exercise_01_Answers;
+
+// DON'T FORGET TO CHECK THE ANSWERS IN THE OTHER FILES TOO!!!
+
 // TODO: Create an abstract class called Part 
 // TODO:  Inside of the abstract Part class, Create 3 abstract properties called ID, Name, and Price 
 // TODO:  Inside of the abstract Part class, Create 1 abstract void method called PrintPartInfo() 
